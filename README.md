@@ -10,17 +10,20 @@ Soy estudiante de la **Universidad Patagónica San Juan Bosco (UNPSJB)**, cursan
 ---
 
 ## 🚀 Tecnologías que Utilizo
-<div align="center">
-  <img src="https://img.shields.io/badge/Assembler-2C2E3E?style=for-the-badge&logo=gnubash&logoColor=white" alt="Assembler"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/IntelliJ-2D2D30?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/CodeBlocks-1E1E1E?style=for-the-badge&logo=codeblocks&logoColor=white" alt="CodeBlocks"/>
-</div>
+
+### Lenguajes de Programación
+![Assembler](https://img.shields.io/badge/Assembler-2C2E3E?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Herramientas que Uso
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-2D2D30?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/CodeBlocks-1E1E1E?style=for-the-badge&logo=codeblocks&logoColor=white)
+
+### Otros Conocimientos
+**Estructuras de Datos**, **Desarrollo Backend**, **Control de Versiones con Git**.
 
 ---
 
