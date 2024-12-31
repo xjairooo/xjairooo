@@ -1,31 +1,70 @@
-# ¡Hola! Soy Jairo Campero 👋
-### Desarrollador Full-Stack | Apasionado por la tecnología y la innovación
+# 🌐 ¡Hola, soy Jairo Campero! 👨‍💻
+
+**_Desarrollador Junior | Apasionado por el Desarrollo Web y Backend_**
 
 ---
 
-![Banner personalizado](URL_DE_TU_BANNER)
+## 🎯 Sobre mí:
+Soy estudiante de la **Universidad Patagónica San Juan Bosco (UNPSJB)**, cursando **Analista Programador Universitario** y **Licenciatura en Informática**. Me encanta explorar tecnologías nuevas, y disfruto del proceso de creación de soluciones eficientes en **desarrollo web** y **backend**. Mi enfoque está en seguir aprendiendo y construyendo cosas increíbles.
 
-## Sobre mí
-Desarrollador con experiencia en [tecnologías] y [industria], apasionado por [tu interés]. Disfruto de trabajar en proyectos que [impactan/crean valor/aprenden constantemente].
+---
 
-## 🚀 Tecnologías & Herramientas
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-...
+## 🚀 Tecnologías que Utilizo
+<div align="center">
+  <img src="https://img.shields.io/badge/Assembler-2C2E3E?style=for-the-badge&logo=gnubash&logoColor=white" alt="Assembler"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/IntelliJ-2D2D30?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/CodeBlocks-1E1E1E?style=for-the-badge&logo=codeblocks&logoColor=white" alt="CodeBlocks"/>
+</div>
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+---
 
-## 🔥 Lenguajes más utilizados
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+## 🏆 Proyectos Destacados
 
-## 🌟 Proyectos destacados
-- [Proyecto 1](https://github.com/tu_usuario/proyecto1): Breve descripción.
-- [Proyecto 2](https://github.com/tu_usuario/proyecto2): Breve descripción.
+### 🎮 [Juego de Ahorcado en C](https://github.com/xjairooo/Ahorcado-Game-in-C)
+Un proyecto donde desarrollé un clásico **juego de ahorcado** utilizando el lenguaje **C**. Este proyecto me permitió:
+- Aprender el manejo de **entradas y salidas** en C.
+- Trabajar con **estructuras de control** y mejorar la lógica de programación.
+- Implementar el concepto de **arrays** y **manipulación de cadenas de caracteres**.
 
-## 📫 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_usuario/)](https://www.linkedin.com/in/tu_usuario/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camperojairo0@gmail.com)](mailto:camperojairo0@gmail.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/Lenguaje-C-blue?style=for-the-badge&logo=c&logoColor=white" alt="Lenguaje C"/>
+  <img src="https://img.shields.io/badge/Estructuras_De_Datos-Informativas-brightgreen?style=for-the-badge" alt="Estructuras de Datos"/>
+  <img src="https://img.shields.io/badge/Proyecto_Completo-en_GitHub-lightgrey?style=for-the-badge&logo=github" alt="Repositorio GitHub"/>
+</p>
+
+---
+
+## 📊 Mis Estadísticas en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xjairooo&show_icons=true&theme=highcontrast&hide_border=true&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF&bg_color=0D1117" alt="Estadísticas de GitHub" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjairooo&layout=compact&theme=highcontrast&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Lenguajes más usados" width="41%"/>
+</p>
+
+---
+
+## 🔗 Conéctate conmigo
+Si quieres saber más de mis proyectos o simplemente charlar sobre tecnología, puedes contactarme a través de mis redes:
+
+- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xjairooo)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camperojairo0@gmail.com)
+
+---
+
+## ⚡ Acerca de Mis Habilidades
+- 🌱 **Lenguajes que estoy aprendiendo**: Constantemente perfeccionando mis habilidades en **Java**.
+- 🔨 **Proyectos actuales**: Desarrollando proyectos en Java como parte de mis prácticas universitarias.
+- 💡 **Pasión por**: Resolver problemas complejos y mejorar la eficiencia del código.
+
+---
+
+## ✨ Un Pensamiento Final
+> **“La programación no es solo escribir código, es el arte de crear soluciones a problemas reales.”**
 
 ---
 
