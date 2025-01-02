@@ -22,12 +22,9 @@ Soy estudiante de la **Universidad Patagónica San Juan Bosco (UNPSJB)**, cursan
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-1E1E1E?style=for-the-badge&logo=codeblocks&logoColor=white)
 
-### Otros Conocimientos
-**Estructuras de Datos**, **Desarrollo Backend**, **Control de Versiones con Git**.
-
 ---
 
-## 🏆 Proyectos Destacados
+## 🏆 Proyectos
 
 ### 🎮 [Juego de Ahorcado en C](https://github.com/xjairooo/Ahorcado-Game-in-C)
 Un proyecto donde desarrollé un clásico **juego de ahorcado** utilizando el lenguaje **C**. Este proyecto me permitió:
