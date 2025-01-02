@@ -52,7 +52,7 @@ Un proyecto donde desarrollé un clásico **juego de ahorcado** utilizando el le
 Si quieres saber más de mis proyectos o simplemente charlar sobre tecnología, puedes contactarme a través de mis redes:D
 
 - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xjairooo)
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camperojairo0@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=camperojairo0@gmail.com&tf=cm)
 
 ---
 
