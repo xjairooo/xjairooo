@@ -61,10 +61,3 @@ Si quieres saber más de mis proyectos o simplemente charlar sobre tecnología, 
 - 🔨 **Proyectos actuales**: Desarrollando proyectos en Java como parte de mis prácticas universitarias.
 - 💡 **Pasión por**: Resolver problemas complejos y mejorar la eficiencia del código.
 
----
-
-## ✨ Un Pensamiento Final
-> **“La programación no es solo escribir código, es el arte de crear soluciones a problemas reales.”**
-
----
-
