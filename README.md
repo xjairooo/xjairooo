@@ -1,6 +1,6 @@
 # 🌐 ¡Hola, soy Jairo Campero! 👨‍💻
 
-**_Desarrollador Junior | Apasionado por el Desarrollo Web y Backend_**
+**_Desarrollador Jr. Web y Backend_**
 
 ---
 
